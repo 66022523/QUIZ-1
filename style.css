@@ -61,6 +61,12 @@ footer {
   text-align: center;
 }
 
+.project-a img,
+.project-b img,
+.project-c img {
+  background-color: white;
+}
+
 .project-a {
   color: white;
   background-color: red;
